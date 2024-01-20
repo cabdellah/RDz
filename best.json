@@ -1,0 +1,102 @@
+{
+  "tracks": {
+    "data": [
+      {
+        "title": "Radio orientale الشرقي",
+        "artist": { "name": "Music orientale" },
+        "preview": "https://radiodzair.net:8070/orientale?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/orie.png"
+        }
+      },
+      {
+        "title": "Radio 100% مغاربة",
+        "artist": { "name": "Music maghrebi" },
+        "preview": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/MA/radio/magh.png"
+        }
+      },
+      {
+        "title": "Radio tarab  الطرب",
+        "artist": { "name": "Music tarab" },
+        "preview": "https://streamer.mada.ps:8201/tarab",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/tara.png"
+        }
+      },
+      {
+        "title": "Radio dzair  دزاير",
+        "artist": { "name": "Music dzair" },
+        "preview": "https://radiodzair.net:8000/dzair?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/dzai.png"
+        }
+      },
+      {
+        "title": "Radio chaabi  الشعبي",
+        "artist": { "name": "Music chaabi" },
+        "preview": "https://radiodzair.net:8010/chaabia?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/chaa.png"
+        }
+      },
+      {
+        "title": "Radio aures  الشاوي",
+        "artist": { "name": "Music chaoui" },
+        "preview": "https://radiodzair.net:8050/aures?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/aure.png"
+        }
+      },
+      {
+        "title": "Radio andalos الأندلسي",
+        "artist": { "name": "Music andaloussia" },
+        "preview": "https://radiodzair.net:8020/andaloussia?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/anda.png"
+        }
+      },
+      {
+        "title": "Radio sahara  الصحراوي",
+        "artist": { "name": "Music sahraoui" },
+        "preview": "https://radiodzair.net:8040/sahara?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/saha.png"
+        }
+      },
+      {
+        "title": "Radio izuran القبائلي",
+        "artist": { "name": "Music izuran" },
+        "preview": "https://radiodzair.net:8030/izuran?shoutcast",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/izur.png"
+        }
+      },
+      {
+        "title": "Radio jow rai  جو راي",
+        "artist": { "name": "Music Rai" },
+        "preview": "https://ice.creacast.com/jowradio-rai",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/jowr.png"
+        }
+      },
+      {
+        "title": "Radio jow   جــو",
+        "artist": { "name": "Music All" },
+        "preview": "https://ice.creacast.com/jowradio",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/joww.png"
+        }
+      },
+      {
+        "title": "Radio jile fm جيل",
+        "artist": { "name": "Music Rai All" },
+        "preview": "https://webradio.tda.dz/Jeunesse_64K.mp3",
+        "album": {
+          "cover": "https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/jile.png"
+        }
+      }
+    ]
+  }
+}
